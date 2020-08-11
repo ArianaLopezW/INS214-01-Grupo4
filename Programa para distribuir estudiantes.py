@@ -12,7 +12,7 @@ ltemas=[]
 #nombres = open(path2,"r");      # abre el documento con el paramentro de lectura "r" read
 #temas = open(path3,"r");
 
-grupos = open("D:\\grupos.txt","r");          #//rutas predefinidas
+grupos = open("D:\\grupos.txt","r");          #//rutas definidas anteriormente
 nombres = open("D:\\nombres.txt","r");
 temas = open("D:\\temas.txt","r");
 
